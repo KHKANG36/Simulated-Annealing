@@ -16,7 +16,7 @@ To launch the notebook, run the following command from a terminal with anaconda3
 
 ## Algorithm
 
-You
+This is implemented by Python algorithm
 
 
 
